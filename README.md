@@ -9,10 +9,10 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=irtco&show_icons=true&theme=radical)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=irtco&theme=dark&background=000000)](https://git.io/streak-stats)
 
-
+<a href="https://app.dooboo.io/HwangTaehyun"><img src="https://server.dooboo.io/github-stats/irtco" width="600" /></a>
 
 
 Profile Views: 
