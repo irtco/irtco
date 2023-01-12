@@ -7,7 +7,7 @@
 </h1>
 
 
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/886357714278682634)](https://discord.com/users/886357714278682634)
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=irtco&theme=dark&background=000000)](https://git.io/streak-stats)
