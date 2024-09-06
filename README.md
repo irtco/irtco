@@ -8,13 +8,13 @@
 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/884849658608906261)](https://discord.com/users/884849658608906261)
-
-
+</br>
+</br>
+</br>
 [![GitHub Streak](https://streak-stats.demolab.com?user=irtco&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-
-
-
+</br>
+</br>
+</br>
 Profile Views: 
-[![HitCount](https://hits.dwyl.com/irtco/irtco.svg?style=flat)](http://hits.dwyl.com/irtco/irtco)
+![Visitor Count](https://profile-counter.glitch.me/irtco/count.svg)
 
